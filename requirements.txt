@@ -1,0 +1,5 @@
+requests
+pandas
+influxdb
+influxdb-client
+schedule
